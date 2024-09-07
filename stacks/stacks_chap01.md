@@ -26,7 +26,7 @@ Stack: []
 Stack: [5]
 ```
 
-**Graphical Representation**:
+**Visual Representation**:
 
 ```
  | 5 |
